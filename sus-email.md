@@ -17,6 +17,9 @@ I can read in russian but only understand few words from using Yandex, `новы
 
 Of course they are just spam mails that are not worth my time. Are they? I notice this as an oppurtunity to practice my commandline skill. Extract Username, IP, Email, and URL.
 
+## Disclaimer
+IP, Email, and Username are sensitive data that can reveal a lot more private information. You should ***NOT*** reveal them in most situation. However, I decided to reveal them because they are spam emails sent by bot via disposable email, so the chances of being traced back is near impossible; they are likely criminals if anything. 
+
 ## Converting Email(s)
 These emails are sent to my Gmail address, which unfortunately isn't so straightforward to download. I had to manually click `print to pdf` on the client, then I convert those .pdf files to text with `pdftotext`. There were 10 mails total. 
 
